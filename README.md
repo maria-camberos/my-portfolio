@@ -1,5 +1,5 @@
 ## my-portfolio
-Este es un portafolio usando Python, como pandas, matplotlib, numpy, sklearn a manera de practica.
+This is my portfolio using Python, such as pandas, matplotlib, numpy, and sklearn for practice. I really enjoy doing this...
 
 ## Autor
 **Maria Camberos**
